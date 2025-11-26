@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\stilsf\stilsf\bin\Debug\stilsf.exe
+C:\Users\user\source\repos\stilsf\stilsf\bin\Debug\stilsf.pdb
+C:\Users\user\source\repos\stilsf\stilsf\obj\Debug\stilsf.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\stilsf\stilsf\obj\Debug\stilsf.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\stilsf\stilsf\obj\Debug\stilsf.exe
+C:\Users\user\source\repos\stilsf\stilsf\obj\Debug\stilsf.pdb
