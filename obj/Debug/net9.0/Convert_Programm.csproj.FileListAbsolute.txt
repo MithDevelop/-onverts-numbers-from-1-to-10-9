@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Convert_Programm\Convert_Programm\bin\Debug\net9.0\Convert_Programm.exe
+C:\Users\user\source\repos\Convert_Programm\Convert_Programm\bin\Debug\net9.0\Convert_Programm.deps.json
+C:\Users\user\source\repos\Convert_Programm\Convert_Programm\bin\Debug\net9.0\Convert_Programm.runtimeconfig.json
+C:\Users\user\source\repos\Convert_Programm\Convert_Programm\bin\Debug\net9.0\Convert_Programm.dll
+C:\Users\user\source\repos\Convert_Programm\Convert_Programm\bin\Debug\net9.0\Convert_Programm.pdb
+C:\Users\user\source\repos\Convert_Programm\Convert_Programm\obj\Debug\net9.0\Convert_Programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Convert_Programm\Convert_Programm\obj\Debug\net9.0\Convert_Programm.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Convert_Programm\Convert_Programm\obj\Debug\net9.0\Convert_Programm.AssemblyInfo.cs
+C:\Users\user\source\repos\Convert_Programm\Convert_Programm\obj\Debug\net9.0\Convert_Programm.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Convert_Programm\Convert_Programm\obj\Debug\net9.0\Convert_Programm.dll
+C:\Users\user\source\repos\Convert_Programm\Convert_Programm\obj\Debug\net9.0\refint\Convert_Programm.dll
+C:\Users\user\source\repos\Convert_Programm\Convert_Programm\obj\Debug\net9.0\Convert_Programm.pdb
+C:\Users\user\source\repos\Convert_Programm\Convert_Programm\obj\Debug\net9.0\Convert_Programm.genruntimeconfig.cache
+C:\Users\user\source\repos\Convert_Programm\Convert_Programm\obj\Debug\net9.0\ref\Convert_Programm.dll
