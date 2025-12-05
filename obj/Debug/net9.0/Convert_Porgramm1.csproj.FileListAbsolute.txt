@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Convert_Porgramm1\Convert_Porgramm1\bin\Debug\net9.0\Convert_Porgramm1.exe
+C:\Users\user\source\repos\Convert_Porgramm1\Convert_Porgramm1\bin\Debug\net9.0\Convert_Porgramm1.deps.json
+C:\Users\user\source\repos\Convert_Porgramm1\Convert_Porgramm1\bin\Debug\net9.0\Convert_Porgramm1.runtimeconfig.json
+C:\Users\user\source\repos\Convert_Porgramm1\Convert_Porgramm1\bin\Debug\net9.0\Convert_Porgramm1.dll
+C:\Users\user\source\repos\Convert_Porgramm1\Convert_Porgramm1\bin\Debug\net9.0\Convert_Porgramm1.pdb
+C:\Users\user\source\repos\Convert_Porgramm1\Convert_Porgramm1\obj\Debug\net9.0\Convert_Porgramm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Convert_Porgramm1\Convert_Porgramm1\obj\Debug\net9.0\Convert_Porgramm1.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Convert_Porgramm1\Convert_Porgramm1\obj\Debug\net9.0\Convert_Porgramm1.AssemblyInfo.cs
+C:\Users\user\source\repos\Convert_Porgramm1\Convert_Porgramm1\obj\Debug\net9.0\Convert_Porgramm1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Convert_Porgramm1\Convert_Porgramm1\obj\Debug\net9.0\Convert_Porgramm1.dll
+C:\Users\user\source\repos\Convert_Porgramm1\Convert_Porgramm1\obj\Debug\net9.0\refint\Convert_Porgramm1.dll
+C:\Users\user\source\repos\Convert_Porgramm1\Convert_Porgramm1\obj\Debug\net9.0\Convert_Porgramm1.pdb
+C:\Users\user\source\repos\Convert_Porgramm1\Convert_Porgramm1\obj\Debug\net9.0\Convert_Porgramm1.genruntimeconfig.cache
+C:\Users\user\source\repos\Convert_Porgramm1\Convert_Porgramm1\obj\Debug\net9.0\ref\Convert_Porgramm1.dll
